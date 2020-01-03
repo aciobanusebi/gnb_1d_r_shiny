@@ -1,0 +1,12 @@
+name: gnb_1d
+title: gnb_1d
+username:
+account: ml-fii
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1459230
+bundleId: 2583093
+url: https://ml-fii.shinyapps.io/gnb_1d/
+when: 1573566829.98248
+asMultiple: FALSE
+asStatic: FALSE
