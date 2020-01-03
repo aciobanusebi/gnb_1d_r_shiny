@@ -1,9 +1,9 @@
 # Unidimensional Gaussian (Naive) Bayes
 
+(not working for the moment)
 <!-- badges: start -->
 [![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aciobanusebi/gnb_1d_r_shiny/master?urlpath=shiny/app/)
 <!-- badges: end -->
-(not working for the moment)
 
 Written in R, using the *shiny* package.
 
